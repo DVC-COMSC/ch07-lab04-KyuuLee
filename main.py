@@ -12,3 +12,6 @@ for i in range(10):
 	numbers2.append(random.randint(0,100))
 print (numbers1)
 print (numbers2)
+
+
+
